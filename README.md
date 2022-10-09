@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iannico322
+- 👋 Hi, I’m @Zer0
 - 👀 I’m interested in  Frontend and ML
 - 🌱 I’m currently learning Java,Python,html and css
 
