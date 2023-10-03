@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Zer0</h1>
 
 <p align="center">
-  <a href="https://github.com/Zer0">
+  <a href="https://github.com/iannico322">
     <img src="https://img.shields.io/github/followers/Zer0?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about Frontend development and Machine Learning.</p>
 
 <div align="center">
-  <img src="https://github.com/Zer0/your-repo/raw/main/assets/zer0.png" alt="Zer0's Profile Image" width="200">
+  <img src="https://avatars.githubusercontent.com/u/73187566?v=4" alt="Zer0's Profile Image" width="200">
 </div>
 
 ### About Me
@@ -31,20 +31,18 @@
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/Zer0/project1): Description of project 1.
-- [Project 2](https://github.com/Zer0/project2): Description of project 2.
-- [Project 3](https://github.com/Zer0/project3): Description of project 3.
+- [BanatHero](https://iannico322.github.io/BanatHero): It is a Pick up line Generator with diverse languange scope and interactive fx
+- [UMAP](https://iannico322.github.io/umap.ustp/welcome): A 3d map web-app of my School, the back-end api doest work due to expiration of its free trial
+- [ITSY](https://iannico322.github.io/itsy-web/): An AI powered recipe generator system.
 
 ### Languages and Tools
 
 I'm familiar with the following programming languages and tools:
 
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/html-css-js.png" alt="HTML, CSS, and JavaScript" width="100">
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/java.png" alt="Java" width="100">
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/python.png" alt="Python" width="100">
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/react.png" alt="React.js" width="100">
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/nodejs.png" alt="Node.js" width="100">
-<img src="https://github.com/Zer0/your-repo/raw/main/assets/mongodb.png" alt="MongoDB" width="100">
+<img src="https://img.itch.io/aW1hZ2UyL2phbS8yNjgxLzMyOTQxOS5wbmc=/original/4Pm03N.png" alt="HTML, CSS, and JavaScript" width="100">
+<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" alt="Python" width="100">
+<img src="https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png" alt="React.js" width="100">
+
 
 ### GitHub Stats
 
@@ -55,7 +53,7 @@ I'm familiar with the following programming languages and tools:
 You can connect with me on these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourusername)
+- [Instagram](https://twitter.com/ianian_niconico)
 - [Portfolio Website](https://www.yourwebsite.com/)
 
 Feel free to explore my repositories and collaborate on exciting projects! If you have any questions or want to collaborate, don't hesitate to reach out.
