@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/iannico322">
-    <img src="https://img.shields.io/github/followers/Zer0?label=Followers&style=social" alt="GitHub followers" 
+    <img style="border-radius:1000px" src="https://img.shields.io/github/followers/Zer0?label=Followers&style=social" alt="GitHub followers" 
     onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
   </a>
 </p>
@@ -20,7 +20,6 @@
 ### About Me
 
 - 🌱 I’m currently learning:
-  - Java
   - Python
   - HTML
   - CSS
@@ -29,7 +28,7 @@
   - MongoDB
 - 👯 I’m collaborating on open-source projects.
 - 💬 Ask me about web development and machine learning.
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [Email](mailto:iannicocaulin@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### Projects
@@ -58,9 +57,9 @@
 
 You can connect with me on these platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/) <img src="https://image-link-for-linkedin-icon.png" width="20" height="20">
-- [Instagram](https://twitter.com/ianian_niconico) <img src="https://image-link-for-instagram-icon.png" width="20" height="20">
-- [Portfolio Website](https://www.yourwebsite.com/) <img src="https://image-link-for-website-icon.png" width="20" height="20">
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/) <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" width="20" height="20">
+- [Instagram](https://twitter.com/ianian_niconico) <img src="https://i1.wp.com/globalinfusion.org/wp-content/uploads/2018/01/ig-logo-email.png?ssl=1" width="20" height="20">
+- [Portfolio Website](https://www.yourwebsite.com/) <img src="https://www.pngarts.com/files/2/Letter-Z-PNG-Image-Transparent.png" width="20" height="20">
 
 Feel free to explore my repositories and collaborate on exciting projects! If you have any questions or want to collaborate, don't hesitate to reach out.
 
