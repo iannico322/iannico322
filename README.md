@@ -1,6 +1,29 @@
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border: 1px solid #ddd;">
+<style>
+  /* Header background */
+  .header {
+    background-color: #0f0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    position: relative;
+  }
+
+  /* Lighting effect */
+  .header::after {
+    content: "";
+    background: radial-gradient(circle, rgba(0, 255, 0, 0.3) 0%, transparent 70%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+</style>
+
+<div align="center" class="header">
   <h1>👋 Hello, I'm Zer0</h1>
 </div>
+
 
 <p align="center">
   <a href="https://github.com/iannico322">
