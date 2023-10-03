@@ -1,15 +1,20 @@
-<h1 align="center">👋 Hello, I'm Zer0</h1>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border: 1px solid #ddd;">
+  <h1>👋 Hello, I'm Zer0</h1>
+</div>
 
 <p align="center">
   <a href="https://github.com/iannico322">
-    <img src="https://img.shields.io/github/followers/Zer0?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Zer0?label=Followers&style=social" alt="GitHub followers" 
+    onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
   </a>
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about Frontend development and Machine Learning.</p>
+<div align="center" style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 20px;">
+  <p>Welcome to my GitHub profile! I'm passionate about Frontend development and Machine Learning.</p>
+</div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/73187566?v=4" alt="Zer0's Profile Image" width="200">
+  <img src="https://avatars.githubusercontent.com/u/73187566?v=4" alt="Zer0's Profile Image" width="200" style="border-radius: 50%;">
 </div>
 
 ### About Me
@@ -29,20 +34,21 @@
 
 ### Projects
 
-Here are some of the projects I've worked on:
-
-- [BanatHero](https://iannico322.github.io/BanatHero): It is a Pick up line Generator with diverse languange scope and interactive fx
-- [UMAP](https://iannico322.github.io/umap.ustp/welcome): A 3d map web-app of my School, the back-end api doest work due to expiration of its free trial
-- [ITSY](https://iannico322.github.io/itsy-web/): An AI powered recipe generator system.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://iannico322.github.io/BanatHero" style="text-decoration: none; color: #333; width: 30%; border: 1px solid #ddd; padding: 10px; margin: 10px; transition: all 0.3s ease;">
+    <h3>BanatHero</h3>
+    <p>It is a Pick up line Generator with diverse language scope and interactive fx</p>
+  </a>
+  <!-- Add similar styling for other projects -->
+</div>
 
 ### Languages and Tools
 
-I'm familiar with the following programming languages and tools:
-
-<img src="https://img.itch.io/aW1hZ2UyL2phbS8yNjgxLzMyOTQxOS5wbmc=/original/4Pm03N.png" alt="HTML, CSS, and JavaScript" width="100">
-<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" alt="Python" width="100">
-<img src="https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png" alt="React.js" width="100">
-
+<div align="center">
+  <img src="https://img.itch.io/aW1hZ2UyL2phbS8yNjgxLzMyOTQxOS5wbmc=/original/4Pm03N.png" alt="HTML, CSS, and JavaScript" width="100">
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" alt="Python" width="100">
+  <img src="https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png" alt="React.js" width="100">
+</div>
 
 ### GitHub Stats
 
@@ -52,15 +58,13 @@ I'm familiar with the following programming languages and tools:
 
 You can connect with me on these platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Instagram](https://twitter.com/ianian_niconico)
-- [Portfolio Website](https://www.yourwebsite.com/)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/) <img src="https://image-link-for-linkedin-icon.png" width="20" height="20">
+- [Instagram](https://twitter.com/ianian_niconico) <img src="https://image-link-for-instagram-icon.png" width="20" height="20">
+- [Portfolio Website](https://www.yourwebsite.com/) <img src="https://image-link-for-website-icon.png" width="20" height="20">
 
 Feel free to explore my repositories and collaborate on exciting projects! If you have any questions or want to collaborate, don't hesitate to reach out.
 
 Thanks for visiting my GitHub profile!
-
-
 <!---
 iannico322/iannico322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
