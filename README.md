@@ -27,8 +27,8 @@
 
 **⚡ Right now**
 
-- 🔭 Building **[PROJECT NAME](https://github.com/iannico322/REPO)**
-- 🌱 Learning **ADD WHAT YOU'RE LEARNING**
+- 🔭 Building **[DICT KMS](https://edtr10.github.io/kms)**
+- 🌱 Learning **Machine Learning, Cyber Security and Web Development**
 - 🧩 Open to collaborating on side projects
 
 </td>
