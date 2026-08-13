@@ -1,29 +1,53 @@
-
 <p align="center">
-  <img src="./terminal.svg" alt="zer0@dev terminal" width="683"/>
+  <img src="./terminal.svg" alt="zer0@dev terminal" width="701"/>
 </p>
 
 <p align="center">
-  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=79c0ff&labelColor=0d1117" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=iannico322&style=for-the-badge&color=a371f7&label=VISITORS" alt="profile views"/>
 </p>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
-### 🧑‍💻 About Me
+## `~/` whoami
 
-I'm a full-stack developer from **Cagayan de Oro, Philippines**. I work mostly in the **MERN stack** for web apps and reach for **Python** when the problem is closer to data, automation, or a quick backend.
+> I'm a full-stack developer from **Cagayan de Oro, Philippines**.
+> I work mostly in the **MERN stack** for web apps, and reach for **Python**
+> when the problem is closer to data, automation, or a quick backend.
+>
+> Most of what's here started as something I wanted to see working.
+> Some of it is polished, some of it is me learning in public — I've kept
+> both, because the messy repos are usually where the learning happened.
 
-Most of what's here started as something I wanted to see working. Some of it is polished, some of it is me learning in public — I've kept both, because the messy repos are usually where the actual learning happened.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🔭 Currently building — **[PROJECT NAME](https://github.com/iannico322/REPO)** — one line on what it does
-- 🌱 Currently digging into — **ADD WHAT YOU'RE LEARNING**
-- 💼 Selected work lives at — **[iannico322.github.io/portfolio](https://iannico322.github.io/portfolio)**
+**⚡ Right now**
+
+- 🔭 Building **[PROJECT NAME](https://github.com/iannico322/REPO)**
+- 🌱 Learning **ADD WHAT YOU'RE LEARNING**
+- 🧩 Open to collaborating on side projects
+
+</td>
+<td valign="top" width="50%">
+
+**🗒️ Good to know**
+
+- 📍 Cagayan de Oro, Philippines
 - 🎮 Online I go by **Zer0**
+- 💬 Ask me about **React, Node, Python**
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>$ cat portrait.txt</b></summary>
+<summary><b><code>$ cat portrait.txt</code></b></summary>
+
+<br>
 
 ```
                                   -
@@ -69,51 +93,96 @@ Most of what's here started as something I wanted to see working. Some of it is 
 
 </details>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
-### 🛠️ What I Build With
+## `~/` stack
 
-**Languages**
+<table>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" alt="languages"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="frontend"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="backend"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Data &amp; Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,figma&theme=dark" alt="tools"/></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" alt="languages" />
-</p>
+<img src="./divider.svg" width="100%" alt=""/>
 
-**Frameworks & Runtime**
+## `~/` projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind,bootstrap&theme=dark" alt="frameworks" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Databases & Tools**
+### 🌐 [Portfolio](https://iannico322.github.io/portfolio)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,figma&theme=dark" alt="tools" />
-</p>
+My personal site — background, projects, and contact in one place.
 
----
+`ADD STACK`
 
-### 📂 Selected Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[Portfolio](https://iannico322.github.io/portfolio)** | My personal site — background, projects, contact | ADD STACK |
-| **[Back-end-Template](https://github.com/iannico322/Back-end-Template)** | Reusable Node/Express starter so I stop rewriting boilerplate | JavaScript · Node |
-| **[PROJECT NAME](https://github.com/iannico322/REPO)** | One line on the problem it solves | MERN |
-| **[PROJECT NAME](https://github.com/iannico322/REPO)** | One line on the problem it solves | Python |
+### ⚙️ [Back-end-Template](https://github.com/iannico322/Back-end-Template)
 
-<sub>📌 There's a lot more in my <a href="https://github.com/iannico322?tab=repositories">repositories</a> — 100+ experiments, class projects, and half-finished ideas.</sub>
+A reusable Node/Express starter so I stop rewriting the same boilerplate.
 
----
+`JavaScript` `Node`
 
-### 📫 Say Hi
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/iannicocaulin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/ian--nico-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+### 🚀 [PROJECT NAME](https://github.com/iannico322/REPO)
+
+One line on the problem it solves.
+
+`MERN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 [PROJECT NAME](https://github.com/iannico322/REPO)
+
+One line on the problem it solves.
+
+`Python`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iannico322&style=flat-square&color=58A6FF" alt="profile views" />
+  <a href="https://github.com/iannico322?tab=repositories">
+    <img src="https://img.shields.io/badge/browse_all_112_repos-0d1117?style=for-the-badge&logo=github&logoColor=a371f7&labelColor=0d1117" alt="all repos"/>
+  </a>
+</p>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+## `~/` connect
+
+<p align="center">
+  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/iannicocaulin@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=0d1117" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/in/ian--nico-0d1117?style=flat-square&logo=linkedin&logoColor=79c0ff&labelColor=0d1117" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/iannico322.github.io/portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=7ee787&labelColor=0d1117" alt="Portfolio"/></a>
+</p>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<p align="center">
+  <sub><code>zer0@dev:~$ exit</code></sub>
 </p>
