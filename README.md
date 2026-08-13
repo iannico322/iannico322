@@ -118,7 +118,7 @@
 
 <img src="./divider.svg" width="100%" alt=""/>
 
-## `~/` projects
+## `~/` MyPortfolio
 
 <table>
 <tr>
@@ -128,7 +128,7 @@
 
 My personal site — background, projects, and contact in one place.
 
-`ADD STACK`
+`JJK THEME`
 
 </td>
 
