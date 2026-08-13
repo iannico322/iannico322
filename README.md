@@ -131,35 +131,7 @@ My personal site — background, projects, and contact in one place.
 `ADD STACK`
 
 </td>
-<td width="50%" valign="top">
 
-### ⚙️ [Back-end-Template](https://github.com/iannico322/Back-end-Template)
-
-A reusable Node/Express starter so I stop rewriting the same boilerplate.
-
-`JavaScript` `Node`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [PROJECT NAME](https://github.com/iannico322/REPO)
-
-One line on the problem it solves.
-
-`MERN`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 [PROJECT NAME](https://github.com/iannico322/REPO)
-
-One line on the problem it solves.
-
-`Python`
-
-</td>
 </tr>
 </table>
 
