@@ -2,12 +2,11 @@
   <img src="./terminal.svg" alt="zer0@dev terminal" width="701"/>
 </p>
 
-
 <p align="center">
-  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=79c0ff&labelColor=0d1117" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=iannico322&style=for-the-badge&color=a371f7&label=VISITORS" alt="profile views"/>
+  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff6b5e&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff6b5e&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b5e&labelColor=0d1117" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=iannico322&style=for-the-badge&color=e91101&label=VISITORS" alt="profile views"/>
 </p>
 
 <img src="./divider.svg" width="100%" alt=""/>
@@ -166,7 +165,7 @@ One line on the problem it solves.
 
 <p align="center">
   <a href="https://github.com/iannico322?tab=repositories">
-    <img src="https://img.shields.io/badge/browse_all_112_repos-0d1117?style=for-the-badge&logo=github&logoColor=a371f7&labelColor=0d1117" alt="all repos"/>
+    <img src="https://img.shields.io/badge/browse_all_112_repos-0d1117?style=for-the-badge&logo=github&logoColor=e91101&labelColor=0d1117" alt="all repos"/>
   </a>
 </p>
 
@@ -175,11 +174,11 @@ One line on the problem it solves.
 ## `~/` connect
 
 <p align="center">
-  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/iannicocaulin@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=0d1117" alt="Email"/></a>
+  <a href="mailto:iannicocaulin@gmail.com"><img src="https://img.shields.io/badge/iannicocaulin@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ff6b5e&labelColor=0d1117" alt="Email"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/in/ian--nico-0d1117?style=flat-square&logo=linkedin&logoColor=79c0ff&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ian-nico/"><img src="https://img.shields.io/badge/in/ian--nico-0d1117?style=flat-square&logo=linkedin&logoColor=ff6b5e&labelColor=0d1117" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/iannico322.github.io/portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=7ee787&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://iannico322.github.io/portfolio"><img src="https://img.shields.io/badge/iannico322.github.io/portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=ff6b5e&labelColor=0d1117" alt="Portfolio"/></a>
 </p>
 
 <img src="./divider.svg" width="100%" alt=""/>
